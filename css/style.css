@@ -1,0 +1,26 @@
+/*
+*{}
+p{}
+.class-name{}
+#id-name{}
+inline-style
+
+.class-neame h1
+*/
+h1 {
+    color: orange;
+}
+
+mark {
+    background-color: blueviolet;
+}
+
+p mark {
+    background-color: aqua;
+}
+
+.text {
+    text-transform: uppercase;
+    color: gray;
+    font-weight: bold;
+}
